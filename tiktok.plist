@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://.../xxx.ipa</string> 
+                    <string>https://iosapps.itunes.apple.com/itunes-assets/Purple125/v4/6b/e1/b1/6be1b1dd-70b7-b98a-0efb-016e6d679efe/extDirrldpbnctdyvrkomi.lc.5015970466754023.IRQKUDBEULFSG.signed.dpkg.ipa?accessKey=1695218582_1687554067891954934_T%2Fr%2FzjjaFhDckXkRYMcVTTX3s8ScygZAKbL5FSLsiix%2BOKpN5mXOeoaabvwdMfdI6TrQ2%2BGeF5eAvngyLAl59TvzVD1OkPVhVpQd5zZ%2FZKFndgxY2M7xCANfIlv8TT08nWuPg19wCnD%2BIx1YXaDbM94l4k%2FEGfSCA%2BE0NYcf4z9d2uOG8yI5Zu3TZ1AgTAMIUuWwYLEFkPcW3wVD0tlEIlFosa%2BrYWAM0RPSsbRUd7Y%3D</string> 
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>xxx</string>
                 <key>bundle-version</key>
-                <string>2.1.0</string>
+                <string>21.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
