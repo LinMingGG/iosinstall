@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+                <key>items</key>
+
+                <array>
+
+                                <dict>
+
+                                                <key>assets</key>
+
+                                                <array>
+
+                                                                <dict>
+
+                                                                                <key>kind</key>
+
+                                                                                <string>software-package</string>
+
+                                                                                 <key>url</key>                                                                                                                           
+
+                                                           <string>https://iosapps.itunes.apple.com/itunes-assets/Purple125/v4/6b/e1/b1/6be1b1dd-70b7-b98a-0efb-016e6d679efe/extDirrldpbnctdyvrkomi.lc.5015970466754023.IRQKUDBEULFSG.signed.dpkg.ipa?accessKey=1695218582_1687554067891954934_T%2Fr%2FzjjaFhDckXkRYMcVTTX3s8ScygZAKbL5FSLsiix%2BOKpN5mXOeoaabvwdMfdI6TrQ2%2BGeF5eAvngyLAl59TvzVD1OkPVhVpQd5zZ%2FZKFndgxY2M7xCANfIlv8TT08nWuPg19wCnD%2BIx1YXaDbM94l4k%2FEGfSCA%2BE0NYcf4z9d2uOG8yI5Zu3TZ1AgTAMIUuWwYLEFkPcW3wVD0tlEIlFosa%2BrYWAM0RPSsbRUd7Y%3D</string>
+
+                                                                </dict>
+
+                                                                <dict>
+
+                                                                                <key>kind</key>
+
+                                                                                <string>full-size-image</string>
+
+                                                                                <key>needs-shine</key>
+
+                                                                                <true/>
+
+                                                                                <key>url</key>                                                                                                                                    
+
+                                                            <string>http://xxxxxxxxxxxxxxxxxx.png</string>
+
+                                                            </dict>
+
+                                                            <dict>
+
+                                                                            <key>kind</key>
+
+                                                                            <string>display-image</string>
+
+                                                                            <key>needs-shine</key>
+
+                                                                            <true/>
+
+                                                                            <key>url</key>                                                                           
+
+                                                            <string>http://xxxxxxxxxxxxxxxxxx.png</string>
+
+                                                            </dict>
+
+                                        </array>
+
+                                        <key>metadata</key>
+
+                                        <dict>
+
+                                                        <key>bundle-identifier</key>
+
+                                                        <string>com.xxxx.demo</string>
+
+                                                        <key>bundle-version</key>
+
+                                                        <string>1.0.0</string>
+
+                                                         <key>kind</key>
+
+                                                         <string>software</string>
+
+                                                        <key>title</key>
+
+                                                        <string>XXXX App download</string>
+
+                                        </dict>
+
+                        </dict>
+
+        </array>
+
+</dict>
+
+</plist>
