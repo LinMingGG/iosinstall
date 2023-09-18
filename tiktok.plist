@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://iosapps.itunes.apple.com/itunes-assets/Purple125/v4/a5/ea/8b/a5ea8b89-dbdc-d3b4-c333-30d3c2006894/extDirkifszkhlrtkrnazj.lc.5599366566647285.FODV3KXOFZ2IS.signed.dpkg.ipa?accessKey=1695245388_5702681816574073151_Al8Hym78dBHixoA9Y3U0b1AphxUaz3vum8%2Fwa2J3cnHjR4DrxohS9jqzrTrUyx%2FzUCiIK4ypGdVmCUOZyjAwVcj7VwnA9nfD3TkX3BdyZPxj0ikcaNOkULeT3QIinqfRlixgnq35Usv%2BDKjqRztDQby0MHD7YL2LgQ%2B%2BZrcNqJI2eeRWTXSdSE%2FxrN2PA%2B9QJ0o1AesL6KxdZfif3Zw%2BtTXznC%2F3rxHJN6kNS1H2h%2Fw%3D</string> 
+                    <string>https://iosapps.itunes.apple.com/itunes-assets/Purple125/v4/6b/e1/b1/6be1b1dd-70b7-b98a-0efb-016e6d679efe/extDirrldpbnctdyvrkomi.lc.5015970466754023.IRQKUDBEULFSG.signed.dpkg.ipa?accessKey=1695218582_1687554067891954934_T%2Fr%2FzjjaFhDckXkRYMcVTTX3s8ScygZAKbL5FSLsiix%2BOKpN5mXOeoaabvwdMfdI6TrQ2%2BGeF5eAvngyLAl59TvzVD1OkPVhVpQd5zZ%2FZKFndgxY2M7xCANfIlv8TT08nWuPg19wCnD%2BIx1YXaDbM94l4k%2FEGfSCA%2BE0NYcf4z9d2uOG8yI5Zu3TZ1AgTAMIUuWwYLEFkPcW3wVD0tlEIlFosa%2BrYWAM0RPSsbRUd7Y%3D</string> 
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.zhiliaoapp.musically</string>
                 <key>bundle-version</key>
-                <string>19.3</string>
+                <string>20.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
