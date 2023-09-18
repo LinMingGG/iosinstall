@@ -2,55 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://iosapps.itunes.apple.com/itunes-assets/Purple125/v4/6b/e1/b1/6be1b1dd-70b7-b98a-0efb-016e6d679efe/extDirrldpbnctdyvrkomi.lc.5015970466754023.IRQKUDBEULFSG.signed.dpkg.ipa?accessKey=1695218582_1687554067891954934_T%2Fr%2FzjjaFhDckXkRYMcVTTX3s8ScygZAKbL5FSLsiix%2BOKpN5mXOeoaabvwdMfdI6TrQ2%2BGeF5eAvngyLAl59TvzVD1OkPVhVpQd5zZ%2FZKFndgxY2M7xCANfIlv8TT08nWuPg19wCnD%2BIx1YXaDbM94l4k%2FEGfSCA%2BE0NYcf4z9d2uOG8yI5Zu3TZ1AgTAMIUuWwYLEFkPcW3wVD0tlEIlFosa%2BrYWAM0RPSsbRUd7Y%3D</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/d7/c5/d5d7c53c-50b9-89c9-4450-1401aabe2b8f/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/d7/c5/d5d7c53c-50b9-89c9-4450-1401aabe2b8f/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>appleId</key>
-				<string>cnlinming@qq.com</string>
-				<key>artistId</key>
-				<integer>1322881000</integer>
-				<key>artistName</key>
-				<string>TikTok Ltd.</string>
-				<key>title</key>
-				<string>TikTok</string>
-				<key>bundle-version</key>
-				<string>19.3.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>bundle-identifier</key>
-				<string>com.zhiliaoapp.musically</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
-<dict>
+	<key>MacUIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>arm64</key>
+		<true/>
+	</dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>cnlinming@qq.com</string>
+	<key>artistId</key>
+	<integer>1322881000</integer>
+	<key>artistName</key>
+	<string>TikTok Ltd.</string>
+	<key>bundleDisplayName</key>
+	<string>TikTok</string>
+	<key>bundleShortVersionString</key>
+	<string>19.3.0</string>
+	<key>bundleVersion</key>
+	<string>193021</string>
+	<key>com.apple.iTunesStore.downloadInfo</key>
+	<dict>
 		<key>accountInfo</key>
 		<dict>
 			<key>AccountStoreFront</key>
