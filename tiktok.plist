@@ -14,21 +14,21 @@
                      <string>https://github.com/LinMingGG/iosinstall/releases/download/21.1.0/TikTok.21.1.0.ipa</string> 
                 </dict>
                 <dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/d7/c5/d5d7c53c-50b9-89c9-4450-1401aabe2b8f/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/d7/c5/d5d7c53c-50b9-89c9-4450-1401aabe2b8f/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
-				</dict>
+			<key>kind</key>
+			<string>full-size-image</string>
+			<key>needs-shine</key>
+			<true/>
+			<key>url</key>
+			<string>https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/d7/c5/d5d7c53c-50b9-89c9-4450-1401aabe2b8f/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
+		</dict>
+		<dict>
+			<key>kind</key>
+			<string>display-image</string>
+			<key>needs-shine</key>
+			<true/>
+			<key>url</key>
+			<string>https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/d7/c5/d5d7c53c-50b9-89c9-4450-1401aabe2b8f/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
+		</dict>
             </array>
             <key>metadata</key>
             <dict>
